@@ -1,0 +1,26 @@
+_repo: The-Last-Abbot-of-Glastonbury-A-Tale-of-the-Dissolution-of-the-Monasteries_53010
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Crake, A. D. (Augustine David)
+    alias: Crake, Augustine David
+    birthdate: 1836
+    deathdate: 1890
+    gutenberg_agent_id: '4926'
+    url: http://www.gutenberg.org/2009/agents/4926
+description: ''
+gutenberg_issued: '2016-09-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53010'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Whiting, Richard, -1539 -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Glastonbury Abbey -- Fiction'
+- GITenberg
+title: 'The Last Abbot of Glastonbury: A Tale of the Dissolution of the Monasteries'
+url: http://www.gutenberg.org/ebooks/53010
